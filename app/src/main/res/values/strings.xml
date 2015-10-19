@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeerMan</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_settings">Instellingen</string>
+
+</resources>
